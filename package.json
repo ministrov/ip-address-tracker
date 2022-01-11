@@ -1,0 +1,23 @@
+{
+  "name": "ip-address-tracker-master",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5"
+  },
+  "scripts": {
+    "start": "parcel index.html --open",
+    "build": "parcel build index.html --out-dir=build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ministrov/ip-address-tracker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ministrov/ip-address-tracker/issues"
+  },
+  "homepage": "https://github.com/ministrov/ip-address-tracker#readme"
+}
