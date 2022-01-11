@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/ministrov/ip-address-tracker/issues"
   },
-  "homepage": "https://github.com/ministrov/ip-address-tracker#readme"
+  "homepage": "https://github.com/ministrov/ip-address-tracker#readme",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5"
+  }
 }
