@@ -22,5 +22,4 @@
   "homepage": "https://github.com/ministrov/ip-address-tracker#readme",
   "dependencies": {
     "leaflet": "^1.7.1"
-  }
 }
